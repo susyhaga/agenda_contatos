@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: rgb(31, 3, 77);
+    color: #ffffff;
+    padding-top: 50px;
+}
+header{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+header img{
+    height: 100px;
+    margin-right: 16px;
+    border-radius: 40px;
+}
+header h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.container{
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+form{
+    display: flex;
+    max-width: 640px;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 56px;
+}
+form input{
+    background-color: #ffffff;
+    font-size: 24px;
+    border: 2px solid black;
+    padding: 8px;
+}
+form button{
+    background-color: #009432;
+    color: white;
+    font-size: 24px;
+    border:none;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 8px;
+}
+
+table{
+    width: 100%;
+}
+table th{
+
+    border-bottom: 2px solid rgb(255, 255, 255);
+    padding: 16px;
+    font-size: 30px;
+    font-weight: bold;
+    padding:16px 0;
+}
+
+table td{
+    text-align: center;
+    font-size: 20px;
+    padding: 8px 0px;
+    border-bottom: 1px solid rgb(0,0,0,0.0.1);
+}
+
+tfoot{
+    padding-right:190px;
+    
+    background-color: #55014a;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+tfoot td{
+  padding-right: 100px;
+  justify-content: space-between;
+}
+
+table th{
+    border-bottom: 2px solid black;
+    padding: 16px;
+    font-size: 24px;
+    font-weight: bold;
+    padding:16px 0;
+}
+
