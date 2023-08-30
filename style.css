@@ -80,8 +80,8 @@ tfoot{
 }
 
 tfoot td{
-  padding-right: 100px;
-  justify-content: space-between;
+    padding-right: 140px;
+    justify-content: space-between;
 }
 
 table th{
