@@ -8,7 +8,7 @@ Create a phonebook using Javascript, CSS, and HTML.
 
 ## Run
 
-[Click here](https://agenda-contatos-cyan-chi.vercel.app/) to run the project.
+[Click here](https://fetch-git-profile.vercel.app/) to run the project.
 
 ## Learn More
 
