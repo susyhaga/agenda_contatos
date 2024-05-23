@@ -6,9 +6,9 @@ Exercise to create a phonebook following its formatting and showing in a table f
 
 Create a phonebook using Javascript, CSS, and HTML.
 
-## Installing
-
 ## Run
+
+Click here to [run](https://agenda-contatos-cyan-chi.vercel.app/) the project.
 
 ## Learn More
 
